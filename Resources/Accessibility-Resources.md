@@ -1,7 +1,7 @@
-[Go back to Resources page](README.md)
+[Go back to Resources page](./)
 
 
 # Accessibilty Resources
 
 ---
-[Go back to Resources page](README.md)
+[Go back to Resources page](./)
